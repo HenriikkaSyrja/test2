@@ -1,7 +1,7 @@
-#include <stido.h>
+#include <stdio.h>
 
 int main (void)
 {
-    printf("Hello again");
+    printf("Hello again + 1.2");
 
 }
