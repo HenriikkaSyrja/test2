@@ -4,5 +4,5 @@
 int main (void)
 {
     printf("Hello again + 1.2");
-    printf("new");
+    printf("new stuff lol");
 }
